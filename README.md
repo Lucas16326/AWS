@@ -8,4 +8,5 @@
 <img width="1919" height="1079" alt="螢幕擷取畫面 2026-10-28 154911" src="https://github.com/user-attachments/assets/f7caec34-145b-412c-a9d5-134864b7e9b2" />
 <img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/a7f2e9e6-d617-47b1-8294-e1db4d5b79d6" />
 <img width="1919" height="1006" alt="螢幕擷取畫面 2026-11-11 154034" src="https://github.com/user-attachments/assets/60c201b7-fcd9-4421-bdb3-1f8f12efecf6" />
+<img width="1162" height="671" alt="image" src="https://github.com/user-attachments/assets/3c201caf-f4af-48a3-a886-b88990bc27ab" />
 <img width="1667" height="867" alt="image" src="https://github.com/user-attachments/assets/9c94dbb1-42b3-494a-99c8-979624864913" />
